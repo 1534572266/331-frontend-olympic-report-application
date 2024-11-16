@@ -98,10 +98,8 @@
         },
         {
             "index": 3,
-            "itemIndex": 3,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/AUS.png",
-            "abbreviation": "AUS",
             "name": "Australia",
+            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/AUS.png",
             "gold": 18,
             "silver": 19,
             "bronze": 16,
@@ -132,10 +130,8 @@
         },
         {
             "index": 4,
-            "itemIndex": 4,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/FRA.png",
-            "abbreviation": "FRA",
             "name": "France",
+            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/FRA.png",
             "gold": 16,
             "silver": 26,
             "bronze": 22,
