@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/nprogress": "^0.2.3",
+    "@vercel/analytics": "^1.4.0",
+    "@vercel/speed-insights": "^1.1.0",
+    "axios": "^1.7.7",
+    "nprogress": "^0.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15"
+  }
+}
