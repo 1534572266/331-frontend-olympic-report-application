@@ -8,6 +8,7 @@ const apiClient = axios.create({
     Accept: 'application/json',
     'Content-Type': 'application/json',
   },
+  maxContentLength: 50000,
 })
 
 export default {

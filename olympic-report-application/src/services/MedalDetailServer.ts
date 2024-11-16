@@ -2,12 +2,13 @@ import type { MedalDetail } from '@/types'
 import axios from 'axios'
 
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_BACKEND_URL,
+  baseURL:  "https://my-json-server.typicode.com/1534572266/331-frontend-olympic-report-application/",
   withCredentials: false,
   headers: {
     Accept: 'application/json',
     'Content-Type': 'application/json',
   },
+  maxContentLength: 50000,
 })
 
 export default {
