@@ -3,7 +3,6 @@
         "country": {
             "index": 0,
             "itemIndex": 0,
-            "flag": "",
             "name": "United States of America",
             "abbreviation": "USA",
             "totalMedals": 126,
@@ -53,7 +52,6 @@
         "country": {
             "index": 1,
             "itemIndex": 1,
-            "flag": "",
             "abbreviation": "CHN",
             "name": "People's Republic of China",
             "gold": 40,
@@ -103,7 +101,6 @@
         "country": {
             "index": 2,
             "itemIndex": 2,
-            "flag": "",
             "abbreviation": "JPN",
             "name": "Japan",
             "gold": 20,
@@ -146,7 +143,6 @@
         "country": {
             "index": 3,
             "itemIndex": 3,
-            "flag": "",
             "abbreviation": "AUS",
             "name": "Australia",
             "gold": 18,
@@ -182,7 +178,6 @@
         "country": {
             "index": 4,
             "itemIndex": 4,
-            "flag": "",
             "abbreviation": "FRA",
             "name": "France",
             "gold": 16,
@@ -218,7 +213,6 @@
         "country": {
             "index": 5,
             "itemIndex": 5,
-            "flag": "",
             "abbreviation": "NED",
             "name": "Netherlands",
             "gold": 15,

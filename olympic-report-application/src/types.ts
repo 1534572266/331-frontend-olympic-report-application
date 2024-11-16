@@ -9,7 +9,6 @@ export interface MedalDetail {
 export interface Country {
   index: number;
   itemIndex: number;
-  flag: string;
   name: string;
   abbreviation: string;
   totalMedals: number;

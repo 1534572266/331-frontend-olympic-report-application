@@ -10,7 +10,6 @@ defineProps<{
   <div class="flex justify-center my-4">
     <router-link :to="{ name: 'country-detail-view', params: { id: country.index } }" class="text-blue-500 hover:text-blue-700">
       <div class="bg-white shadow-md rounded-lg overflow-hidden max-w-sm w-full transform hover:scale-101 transition-transform duration-200 cursor-pointer">
-        <img :src="country.flag" alt="Flag of {{ country.name }}" class="w-full h-48 object-cover" />
         <div class="p-6">
           <h2 class="text-xl font-bold mb-2">{{ country.name }}</h2>
           <p class="text-gray-600 text-sm mb-4">Abbreviation: {{ country.abbreviation }}</p>
