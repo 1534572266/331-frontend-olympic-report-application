@@ -3,7 +3,6 @@
         {
             "index": 0,
             "itemIndex": 1,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/USA.png",
             "name": "United States of America",
             "abbreviation": "USA",
             "totalMedals": 126,
@@ -37,7 +36,6 @@
         {
             "index": 1,
             "itemIndex": 1,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/CHN.png",
             "abbreviation": "CHN",
             "name": "People's Republic of China",
             "gold": 40,
@@ -71,7 +69,6 @@
         {
             "index": 2,
             "itemIndex": 2,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/JPN.png",
             "abbreviation": "JPN",
             "name": "Japan",
             "gold": 20,
@@ -105,7 +102,6 @@
         {
             "index": 3,
             "itemIndex": 3,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/AUS.png",
             "abbreviation": "AUS",
             "name": "Australia",
             "gold": 18,
@@ -139,7 +135,6 @@
         {
             "index": 4,
             "itemIndex": 4,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/FRA.png",
             "abbreviation": "FRA",
             "name": "France",
             "gold": 16,
@@ -173,7 +168,6 @@
         {
             "index": 5,
             "itemIndex": 5,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/NED.png",
             "abbreviation": "NED",
             "name": "Netherlands",
             "gold": 15,
@@ -207,7 +201,6 @@
         {
             "index": 6,
             "itemIndex": 6,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/GBR.png",
             "abbreviation": "GBR",
             "name": "Great Britain",
             "gold": 14,
@@ -241,7 +234,6 @@
         {
             "index": 7,
             "itemIndex": 7,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/KOR.png",
             "abbreviation": "KOR",
             "name": "Republic of Korea",
             "gold": 13,
@@ -275,7 +267,6 @@
         {
             "index": 8,
             "itemIndex": 8,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/ITA.png",
             "abbreviation": "ITA",
             "name": "Italy",
             "gold": 12,
@@ -309,7 +300,6 @@
         {
             "index": 9,
             "itemIndex": 9,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/GER.png",
             "abbreviation": "GER",
             "name": "Germany",
             "gold": 12,
@@ -343,7 +333,6 @@
         {
             "index": 10,
             "itemIndex": 10,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/NZL.png",
             "abbreviation": "NZL",
             "name": "New Zealand",
             "gold": 10,
@@ -377,7 +366,6 @@
         {
             "index": 11,
             "itemIndex": 11,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/CAN.png",
             "abbreviation": "CAN",
             "name": "Canada",
             "gold": 9,
@@ -411,7 +399,6 @@
         {
             "index": 12,
             "itemIndex": 12,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/UZB.png",
             "abbreviation": "UZB",
             "name": "Uzbekistan",
             "gold": 8,
@@ -445,7 +432,6 @@
         {
             "index": 13,
             "itemIndex": 13,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/HUN.png",
             "abbreviation": "HUN",
             "name": "Hungary",
             "gold": 6,
@@ -479,7 +465,6 @@
         {
             "index": 14,
             "itemIndex": 14,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/ESP.png",
             "abbreviation": "ESP",
             "name": "Spain",
             "gold": 5,
@@ -513,7 +498,6 @@
         {
             "index": 16,
             "itemIndex": 16,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/SWE.png",
             "abbreviation": "SWE",
             "name": "Sweden",
             "gold": 4,
