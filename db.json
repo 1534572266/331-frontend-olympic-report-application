@@ -129,7 +129,8 @@
                     "total": 2
                 }
             ]
-        },{
+        },
+        {
             "index": 3,
             "itemIndex": 3,
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/AUS.png",
@@ -162,7 +163,8 @@
                     "total": 2
                 }
             ]
-        },{
+        },
+        {
             "index": 4,
             "itemIndex": 4,
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/FRA.png",
@@ -195,7 +197,8 @@
                     "total": 1
                 }
             ]
-        },{
+        },
+        {
             "index": 5,
             "itemIndex": 5,
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/NED.png",
@@ -228,7 +231,8 @@
                     "total": 6
                 }
             ]
-        },{
+        },
+        {
             "index": 6,
             "itemIndex": 6,
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/GBR.png",
@@ -259,105 +263,6 @@
                     "silver": 4,
                     "bronze": 5,
                     "total": 10
-                }
-            ]
-        },{
-            "index": 7,
-            "itemIndex": 7,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/KOR.png",
-            "abbreviation": "KOR",
-            "name": "Republic of Korea",
-            "gold": 13,
-            "silver": 9,
-            "bronze": 10,
-            "totalMedals": 32,
-            "medalDetails": [
-                {
-                    "sport": "Archery",
-                    "gold": 5,
-                    "silver": 1,
-                    "bronze": 1,
-                    "total": 7
-                },
-                {
-                    "sport": "Badminton",
-                    "gold": 1,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 2
-                },
-                {
-                    "sport": "Boxing",
-                    "gold": 0,
-                    "silver": 0,
-                    "bronze": 1,
-                    "total": 1
-                }
-            ]
-        },{
-            "index": 8,
-            "itemIndex": 8,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/ITA.png",
-            "abbreviation": "ITA",
-            "name": "Italy",
-            "gold": 12,
-            "silver": 13,
-            "bronze": 15,
-            "totalMedals": 40,
-            "medalDetails": [
-                {
-                    "sport": "Artistic Gymnastics",
-                    "gold": 1,
-                    "silver": 1,
-                    "bronze": 1,
-                    "total": 3
-                },
-                {
-                    "sport": "Athletics",
-                    "gold": 0,
-                    "silver": 1,
-                    "bronze": 2,
-                    "total": 3
-                },
-                {
-                    "sport": "Canoe Slalom",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                }
-            ]
-        },{
-            "index": 9,
-            "itemIndex": 9,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/GER.png",
-            "abbreviation": "GER",
-            "name": "Germany",
-            "gold": 12,
-            "silver": 13,
-            "bronze": 8,
-            "totalMedals": 33,
-            "medalDetails": [
-                {
-                    "sport": "3x3 Basketball",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Archery",
-                    "gold": 0,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Athletics",
-                    "gold": 1,
-                    "silver": 2,
-                    "bronze": 1,
-                    "total": 4
                 }
             ]
         }
