@@ -5,7 +5,6 @@
             "name": "United States of America",
             "gold": 40,
             "silver": 44,
-            "bronze": 42,
             "medalDetails": [
                 {
                     "sport": "3x3 Basketball",
@@ -34,7 +33,6 @@
             "name": "People's Republic of China",
             "gold": 40,
             "silver": 27,
-            "bronze": 24,
             "medalDetails": [
                 {
                     "sport": "Archery",
@@ -65,7 +63,6 @@
             "name": "Japan",
             "gold": 20,
             "silver": 12,
-            "bronze": 13,
             "medalDetails": [
                 {
                     "sport": "Artistic Gymnastics",
@@ -94,7 +91,6 @@
             "name": "Australia",
             "gold": 18,
             "silver": 19,
-            "bronze": 16,
             "medalDetails": [
                 {
                     "sport": "Athletics",
@@ -123,7 +119,6 @@
             "name": "France",
             "gold": 16,
             "silver": 26,
-            "bronze": 22,
             "medalDetails": [
                 {
                     "sport": "3x3 Basketball",
@@ -152,7 +147,6 @@
             "name": "Netherlands",
             "gold": 15,
             "silver": 7,
-            "bronze": 12,
             "medalDetails": [
                 {
                     "sport": "3x3 Basketball",
