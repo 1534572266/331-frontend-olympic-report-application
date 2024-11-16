@@ -1,7 +1,7 @@
 {
     "country": [
         {
-            "index": 0,
+            "id": 0,
             "name": "United States of America",
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/USA.png",
             "totalMedals": 126,
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "index": 1,
+            "id": 1,
             "name": "People's Republic of China",
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/CHN.png",
             "gold": 40,
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "index": 2,
+            "id": 2,
             "name": "Japan",
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/JPN.png",
             "gold": 20,
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "index": 3,
+            "id": 3,
             "name": "Australia",
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/AUS.png",
             "gold": 18,
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "index": 4,
+            "id": 4,
             "name": "France",
             "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/FRA.png",
             "gold": 16,

@@ -6,7 +6,7 @@ export interface MedalDetail {
 }
 
 export interface Country {
-  index: number;
+  id: number;
   name: string;
   gold: number;
   silver: number;
