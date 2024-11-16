@@ -2,7 +2,7 @@ import type { MedalDetail } from '@/types'
 import axios from 'axios'
 
 const apiClient = axios.create({
-  baseURL:  "https://my-json-server.typicode.com/1534572266/331-frontend-olympic-report-application/",
+  baseURL: 'https://my-json-server.typicode.com/1534572266/331-frontend-olympic-report-application',
   withCredentials: false,
   headers: {
     Accept: 'application/json',
@@ -13,7 +13,9 @@ const apiClient = axios.create({
 
 export default {
   getMedalDetails(perPage: number, page: number) {
-    return apiClient.get<{ medalDetails: MedalDetail[] }>('/medal-details?_limit=' + perPage + '&_page=' + page)
+    return apiClient.get<{ medalDetails: MedalDetail[] }>(
+      '/medal-details?_limit=' + perPage + '&_page=' + page,
+    )
   },
   getMedalDetail(id: number) {
     return apiClient.get<{ medalDetail: MedalDetail }>('/medal-details/' + id)
