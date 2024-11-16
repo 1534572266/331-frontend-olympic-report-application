@@ -3,15 +3,11 @@ export interface MedalDetail {
   gold: number;
   silver: number;
   bronze: number;
-  total: number;
 }
 
 export interface Country {
   index: number;
-  itemIndex: number;
   name: string;
-  abbreviation: string;
-  totalMedals: number;
   gold: number;
   silver: number;
   bronze: number;

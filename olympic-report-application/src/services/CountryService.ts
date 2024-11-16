@@ -11,14 +11,14 @@ const apiClient = axios.create({
   maxContentLength: 50000,
 })
 
+console.log('Axios Config:', apiClient.defaults);
+
 export default {
   getCountries(perPage: number, page: number) {
-    return apiClient.get<{ countries: Country[] }>(
-      '/countries?_limit=' + perPage + '&_page=' + page,
-    )
+    return apiClient.get<{ countries: Country[] }>('/countries?_limit=' + perPage + '&_page=' + page)
   },
-  getCountry(id: number) {
-    return apiClient.get<{ country: Country }>('/countries/' + id)
+  getCountry(index: number) {
+    return apiClient.get<{ country: Country }>('/countries/' + index)
   },
   saveCountry(country: Country) {
     return apiClient.post<{ country: Country }>('/countries', country)

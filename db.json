@@ -2,10 +2,7 @@
     {
         "country": {
             "index": 0,
-            "itemIndex": 0,
             "name": "United States of America",
-            "abbreviation": "USA",
-            "totalMedals": 126,
             "gold": 40,
             "silver": 44,
             "bronze": 42,
@@ -14,36 +11,19 @@
                     "sport": "3x3 Basketball",
                     "gold": 0,
                     "silver": 0,
-                    "bronze": 1,
-                    "total": 1
+                    "bronze": 1
                 },
                 {
                     "sport": "Archery",
                     "gold": 0,
                     "silver": 1,
-                    "bronze": 1,
-                    "total": 2
+                    "bronze": 1
                 },
                 {
                     "sport": "Artistic Gymnastics",
                     "gold": 3,
                     "silver": 1,
-                    "bronze": 5,
-                    "total": 9
-                },
-                {
-                    "sport": "Artistic Swimming",
-                    "gold": 0,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Athletics",
-                    "gold": 14,
-                    "silver": 11,
-                    "bronze": 9,
-                    "total": 34
+                    "bronze": 5
                 }
             ]
         }
@@ -51,20 +31,16 @@
     {
         "country": {
             "index": 1,
-            "itemIndex": 1,
-            "abbreviation": "CHN",
             "name": "People's Republic of China",
             "gold": 40,
             "silver": 27,
             "bronze": 24,
-            "totalMedals": 91,
             "medalDetails": [
                 {
                     "sport": "Archery",
                     "gold": 0,
                     "silver": 1,
-                    "bronze": 0,
-                    "total": 1
+                    "bronze": 0
                 },
                 {
                     "sport": "Artistic Gymnastics",
@@ -79,20 +55,6 @@
                     "silver": 0,
                     "bronze": 0,
                     "total": 2
-                },
-                {
-                    "sport": "Athletics",
-                    "gold": 1,
-                    "silver": 1,
-                    "bronze": 2,
-                    "total": 4
-                },
-                {
-                    "sport": "Badminton",
-                    "gold": 2,
-                    "silver": 3,
-                    "bronze": 0,
-                    "total": 5
                 }
             ]
         }
@@ -100,41 +62,28 @@
     {
         "country": {
             "index": 2,
-            "itemIndex": 2,
-            "abbreviation": "JPN",
             "name": "Japan",
             "gold": 20,
             "silver": 12,
             "bronze": 13,
-            "totalMedals": 45,
             "medalDetails": [
                 {
                     "sport": "Artistic Gymnastics",
                     "gold": 3,
                     "silver": 0,
-                    "bronze": 1,
-                    "total": 4
+                    "bronze": 1
                 },
                 {
                     "sport": "Athletics",
                     "gold": 1,
                     "silver": 0,
-                    "bronze": 0,
-                    "total": 1
+                    "bronze": 0
                 },
                 {
                     "sport": "Badminton",
                     "gold": 0,
                     "silver": 0,
-                    "bronze": 2,
-                    "total": 2
-                },
-                {
-                    "sport": "Breaking",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
+                    "bronze": 2
                 }
             ]
         }
@@ -142,34 +91,28 @@
     {
         "country": {
             "index": 3,
-            "itemIndex": 3,
-            "abbreviation": "AUS",
             "name": "Australia",
             "gold": 18,
             "silver": 19,
             "bronze": 16,
-            "totalMedals": 53,
             "medalDetails": [
                 {
                     "sport": "Athletics",
                     "gold": 1,
                     "silver": 2,
-                    "bronze": 4,
-                    "total": 7
+                    "bronze": 4
                 },
                 {
                     "sport": "Basketball",
                     "gold": 0,
                     "silver": 0,
-                    "bronze": 1,
-                    "total": 1
+                    "bronze": 1
                 },
                 {
                     "sport": "Boxing",
                     "gold": 0,
                     "silver": 0,
-                    "bronze": 2,
-                    "total": 2
+                    "bronze": 2
                 }
             ]
         }
@@ -177,34 +120,28 @@
     {
         "country": {
             "index": 4,
-            "itemIndex": 4,
-            "abbreviation": "FRA",
             "name": "France",
             "gold": 16,
             "silver": 26,
             "bronze": 22,
-            "totalMedals": 64,
             "medalDetails": [
                 {
                     "sport": "3x3 Basketball",
                     "gold": 0,
                     "silver": 1,
-                    "bronze": 0,
-                    "total": 1
+                    "bronze": 0
                 },
                 {
                     "sport": "Archery",
                     "gold": 0,
                     "silver": 1,
-                    "bronze": 1,
-                    "total": 2
+                    "bronze": 1
                 },
                 {
                     "sport": "Athletics",
                     "gold": 0,
                     "silver": 1,
-                    "bronze": 0,
-                    "total": 1
+                    "bronze": 0
                 }
             ]
         }
@@ -212,34 +149,28 @@
     {
         "country": {
             "index": 5,
-            "itemIndex": 5,
-            "abbreviation": "NED",
             "name": "Netherlands",
             "gold": 15,
             "silver": 7,
             "bronze": 12,
-            "totalMedals": 34,
             "medalDetails": [
                 {
                     "sport": "3x3 Basketball",
                     "gold": 1,
                     "silver": 0,
-                    "bronze": 0,
-                    "total": 1
+                    "bronze": 0
                 },
                 {
                     "sport": "Artistic Swimming",
                     "gold": 0,
                     "silver": 0,
-                    "bronze": 1,
-                    "total": 1
+                    "bronze": 1
                 },
                 {
                     "sport": "Athletics",
                     "gold": 2,
                     "silver": 1,
-                    "bronze": 3,
-                    "total": 6
+                    "bronze": 3
                 }
             ]
         }
