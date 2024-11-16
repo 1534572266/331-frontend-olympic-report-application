@@ -2,9 +2,7 @@
     "country": [
         {
             "index": 0,
-            "itemIndex": 1,
             "name": "United States of America",
-            "abbreviation": "USA",
             "totalMedals": 126,
             "gold": 40,
             "silver": 44,
@@ -35,8 +33,6 @@
         },
         {
             "index": 1,
-            "itemIndex": 1,
-            "abbreviation": "CHN",
             "name": "People's Republic of China",
             "gold": 40,
             "silver": 27,
@@ -68,8 +64,6 @@
         },
         {
             "index": 2,
-            "itemIndex": 2,
-            "abbreviation": "JPN",
             "name": "Japan",
             "gold": 20,
             "silver": 12,
@@ -101,8 +95,6 @@
         },
         {
             "index": 3,
-            "itemIndex": 3,
-            "abbreviation": "AUS",
             "name": "Australia",
             "gold": 18,
             "silver": 19,
@@ -134,8 +126,6 @@
         },
         {
             "index": 4,
-            "itemIndex": 4,
-            "abbreviation": "FRA",
             "name": "France",
             "gold": 16,
             "silver": 26,
@@ -167,8 +157,6 @@
         },
         {
             "index": 5,
-            "itemIndex": 5,
-            "abbreviation": "NED",
             "name": "Netherlands",
             "gold": 15,
             "silver": 7,
@@ -200,8 +188,6 @@
         },
         {
             "index": 6,
-            "itemIndex": 6,
-            "abbreviation": "GBR",
             "name": "Great Britain",
             "gold": 14,
             "silver": 22,
@@ -233,8 +219,6 @@
         },
         {
             "index": 7,
-            "itemIndex": 7,
-            "abbreviation": "KOR",
             "name": "Republic of Korea",
             "gold": 13,
             "silver": 9,
@@ -266,8 +250,6 @@
         },
         {
             "index": 8,
-            "itemIndex": 8,
-            "abbreviation": "ITA",
             "name": "Italy",
             "gold": 12,
             "silver": 13,
@@ -299,8 +281,6 @@
         },
         {
             "index": 9,
-            "itemIndex": 9,
-            "abbreviation": "GER",
             "name": "Germany",
             "gold": 12,
             "silver": 13,
@@ -332,8 +312,6 @@
         },
         {
             "index": 10,
-            "itemIndex": 10,
-            "abbreviation": "NZL",
             "name": "New Zealand",
             "gold": 10,
             "silver": 7,
@@ -365,8 +343,6 @@
         },
         {
             "index": 11,
-            "itemIndex": 11,
-            "abbreviation": "CAN",
             "name": "Canada",
             "gold": 9,
             "silver": 7,
@@ -398,8 +374,6 @@
         },
         {
             "index": 12,
-            "itemIndex": 12,
-            "abbreviation": "UZB",
             "name": "Uzbekistan",
             "gold": 8,
             "silver": 2,
@@ -431,8 +405,6 @@
         },
         {
             "index": 13,
-            "itemIndex": 13,
-            "abbreviation": "HUN",
             "name": "Hungary",
             "gold": 6,
             "silver": 7,
@@ -464,8 +436,6 @@
         },
         {
             "index": 14,
-            "itemIndex": 14,
-            "abbreviation": "ESP",
             "name": "Spain",
             "gold": 5,
             "silver": 4,
@@ -497,8 +467,6 @@
         },
         {
             "index": 16,
-            "itemIndex": 16,
-            "abbreviation": "SWE",
             "name": "Sweden",
             "gold": 4,
             "silver": 4,
