@@ -2,8 +2,8 @@
     {
         "country": {
             "index": 0,
-            "itemIndex": 1,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/USA.png",
+            "itemIndex": 0,
+            "flag": "",
             "name": "United States of America",
             "abbreviation": "USA",
             "totalMedals": 126,
@@ -53,7 +53,7 @@
         "country": {
             "index": 1,
             "itemIndex": 1,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/CHN.png",
+            "flag": "",
             "abbreviation": "CHN",
             "name": "People's Republic of China",
             "gold": 40,
@@ -103,7 +103,7 @@
         "country": {
             "index": 2,
             "itemIndex": 2,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/JPN.png",
+            "flag": "",
             "abbreviation": "JPN",
             "name": "Japan",
             "gold": 20,
@@ -146,7 +146,7 @@
         "country": {
             "index": 3,
             "itemIndex": 3,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/AUS.png",
+            "flag": "",
             "abbreviation": "AUS",
             "name": "Australia",
             "gold": 18,
@@ -182,7 +182,7 @@
         "country": {
             "index": 4,
             "itemIndex": 4,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/FRA.png",
+            "flag": "",
             "abbreviation": "FRA",
             "name": "France",
             "gold": 16,
@@ -218,7 +218,7 @@
         "country": {
             "index": 5,
             "itemIndex": 5,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/NED.png",
+            "flag": "",
             "abbreviation": "NED",
             "name": "Netherlands",
             "gold": 15,
@@ -254,7 +254,7 @@
         "country": {
             "index": 6,
             "itemIndex": 6,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/GBR.png",
+            "flag": "",
             "abbreviation": "GBR",
             "name": "Great Britain",
             "gold": 14,
@@ -290,7 +290,7 @@
         "country": {
             "index": 7,
             "itemIndex": 7,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/KOR.png",
+            "flag": "",
             "abbreviation": "KOR",
             "name": "Republic of Korea",
             "gold": 13,
@@ -326,7 +326,7 @@
         "country": {
             "index": 8,
             "itemIndex": 8,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/ITA.png",
+            "flag": "",
             "abbreviation": "ITA",
             "name": "Italy",
             "gold": 12,
@@ -362,7 +362,7 @@
         "country": {
             "index": 9,
             "itemIndex": 9,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/GER.png",
+            "flag": "",
             "abbreviation": "GER",
             "name": "Germany",
             "gold": 12,
@@ -398,7 +398,7 @@
         "country": {
             "index": 10,
             "itemIndex": 10,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/NZL.png",
+            "flag": "",
             "abbreviation": "NZL",
             "name": "New Zealand",
             "gold": 10,
@@ -429,322 +429,5 @@
                 }
             ]
         }
-    },
-    {
-        "country": {
-            "index": 11,
-            "itemIndex": 11,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/CAN.png",
-            "abbreviation": "CAN",
-            "name": "Canada",
-            "gold": 9,
-            "silver": 7,
-            "bronze": 11,
-            "totalMedals": 27,
-            "medalDetails": [
-                {
-                    "sport": "Athletics",
-                    "gold": 3,
-                    "silver": 1,
-                    "bronze": 1,
-                    "total": 5
-                },
-                {
-                    "sport": "Beach Volleyball",
-                    "gold": 0,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Boxing",
-                    "gold": 0,
-                    "silver": 0,
-                    "bronze": 1,
-                    "total": 1
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 12,
-            "itemIndex": 12,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/UZB.png",
-            "abbreviation": "UZB",
-            "name": "Uzbekistan",
-            "gold": 8,
-            "silver": 2,
-            "bronze": 3,
-            "totalMedals": 13,
-            "medalDetails": [
-                {
-                    "sport": "Boxing",
-                    "gold": 5,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 5
-                },
-                {
-                    "sport": "Judo",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 2,
-                    "total": 3
-                },
-                {
-                    "sport": "Taekwondo",
-                    "gold": 1,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 2
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 13,
-            "itemIndex": 13,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/HUN.png",
-            "abbreviation": "HUN",
-            "name": "Hungary",
-            "gold": 6,
-            "silver": 7,
-            "bronze": 6,
-            "totalMedals": 19,
-            "medalDetails": [
-                {
-                    "sport": "Athletics",
-                    "gold": 0,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Canoe Sprint",
-                    "gold": 0,
-                    "silver": 4,
-                    "bronze": 3,
-                    "total": 7
-                },
-                {
-                    "sport": "Fencing",
-                    "gold": 1,
-                    "silver": 1,
-                    "bronze": 1,
-                    "total": 3
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 14,
-            "itemIndex": 14,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/ESP.png",
-            "abbreviation": "ESP",
-            "name": "Spain",
-            "gold": 5,
-            "silver": 4,
-            "bronze": 9,
-            "totalMedals": 18,
-            "medalDetails": [
-                {
-                    "sport": "3x3 Basketball",
-                    "gold": 0,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Artistic Swimming",
-                    "gold": 0,
-                    "silver": 0,
-                    "bronze": 1,
-                    "total": 1
-                },
-                {
-                    "sport": "Athletics",
-                    "gold": 2,
-                    "silver": 1,
-                    "bronze": 1,
-                    "total": 4
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 16,
-            "itemIndex": 16,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/SWE.png",
-            "abbreviation": "SWE",
-            "name": "Sweden",
-            "gold": 4,
-            "silver": 4,
-            "bronze": 3,
-            "totalMedals": 11,
-            "medalDetails": [
-                {
-                    "sport": "Athletics",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Beach Volleyball",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Cycling Mountain Bike",
-                    "gold": 0,
-                    "silver": 0,
-                    "bronze": 1,
-                    "total": 1
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 17,
-            "itemIndex": 17,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/KEN.png",
-            "abbreviation": "KEN",
-            "name": "Kenya",
-            "gold": 4,
-            "silver": 2,
-            "bronze": 5,
-            "totalMedals": 11,
-            "medalDetails": [
-                {
-                    "sport": "Athletics",
-                    "gold": 4,
-                    "silver": 2,
-                    "bronze": 5,
-                    "total": 11
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 18,
-            "itemIndex": 18,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/NOR.png",
-            "abbreviation": "NOR",
-            "name": "Norway",
-            "gold": 4,
-            "silver": 1,
-            "bronze": 3,
-            "totalMedals": 8,
-            "medalDetails": [
-                {
-                    "sport": "Athletics",
-                    "gold": 2,
-                    "silver": 1,
-                    "bronze": 0,
-                    "total": 3
-                },
-                {
-                    "sport": "Beach Volleyball",
-                    "gold": 0,
-                    "silver": 0,
-                    "bronze": 1,
-                    "total": 1
-                },
-                {
-                    "sport": "Handball",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Sailing",
-                    "gold": 0,
-                    "silver": 0,
-                    "bronze": 1,
-                    "total": 1
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 19,
-            "itemIndex": 19,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/IRL.png",
-            "abbreviation": "IRL",
-            "name": "Ireland",
-            "gold": 4,
-            "silver": 0,
-            "bronze": 3,
-            "totalMedals": 7,
-            "medalDetails": [
-                {
-                    "sport": "Artistic Gymnastics",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Boxing",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                },
-                {
-                    "sport": "Rowing",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 1,
-                    "total": 2
-                }
-            ]
-        }
-    },
-    {
-        "country": {
-            "index": 20,
-            "itemIndex": 20,
-            "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/BRA.png",
-            "abbreviation": "BRA",
-            "name": "Brazil",
-            "gold": 3,
-            "silver": 7,
-            "bronze": 10,
-            "totalMedals": 20,
-            "medalDetails": [
-                {
-                    "sport": "Artistic Gymnastics",
-                    "gold": 1,
-                    "silver": 2,
-                    "bronze": 1,
-                    "total": 4
-                },
-                {
-                    "sport": "Athletics",
-                    "gold": 0,
-                    "silver": 1,
-                    "bronze": 1,
-                    "total": 2
-                },
-                {
-                    "sport": "Beach Volleyball",
-                    "gold": 1,
-                    "silver": 0,
-                    "bronze": 0,
-                    "total": 1
-                }
-            ]
-        }
-    }   
+    }
 ]
