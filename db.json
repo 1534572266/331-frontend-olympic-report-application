@@ -30,7 +30,13 @@
                     "bronze": 5,
                     "total": 9
                 }
-            ]
+            ],
+            "population": 331002651,
+            "capital": "Washington, D.C.",
+            "area": "9833520",
+            "region": "Americas",
+            "subregion": "Northern America",
+            "information": "The United States of America is a dominant force in many Olympic sports, particularly gymnastics, swimming, athletics, and basketball."
         },
         {
             "id": 1,
@@ -62,7 +68,13 @@
                     "bronze": 0,
                     "total": 2
                 }
-            ]
+            ],
+            "population": 1439323776,
+            "capital": "Beijing",
+            "area": "9596961",
+            "region": "Asia",
+            "subregion": "Eastern Asia",
+            "information": "China excels in diving, artistic swimming, table tennis, badminton, and various team events at the Olympics."
         },
         {
             "id": 2,
@@ -94,7 +106,13 @@
                     "bronze": 2,
                     "total": 2
                 }
-            ]
+            ],
+            "population": 126476461,
+            "capital": "Tokyo",
+            "area": "377975",
+            "region": "Asia",
+            "subregion": "Eastern Asia",
+            "information": "Japan is strong in judo, weightlifting, artistry gymnastics, and water polo at the Olympics."
         },
         {
             "id": 3,
@@ -126,7 +144,13 @@
                     "bronze": 2,
                     "total": 2
                 }
-            ]
+            ],
+            "population": 25718554,
+            "capital": "Canberra",
+            "area": "7692024",
+            "region": "Oceania",
+            "subregion": "Australia and New Zealand",
+            "information": "Australia performs well in swimming, cycling, track and field, and rugby sevens at the Olympics."
         },
         {
             "id": 4,
@@ -158,7 +182,13 @@
                     "bronze": 0,
                     "total": 1
                 }
-            ]
+            ],
+            "population": 67022000,
+            "capital": "Paris",
+            "area": "643801",
+            "region": "Europe",
+            "subregion": "Western Europe",
+            "information": "France is known for its strengths in modern pentathlon, handball, rowing, and football (soccer) at the Olympics."
         }
     ]
 }
