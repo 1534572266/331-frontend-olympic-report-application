@@ -1,11 +1,14 @@
-import type { MessageState } from '@/types'
 import { defineStore } from 'pinia'
+
+interface MessageState {
+  message: string
+  componentID: string
+}
 
 export const useMessageStore = defineStore('message', {
   state: (): MessageState => ({
     message: '',
     componentID: '',
-    comments: {} as Record<number, string[]>,
   }),
   actions: {
     updateMessage(message: string, componentID: string): void {
@@ -15,15 +18,6 @@ export const useMessageStore = defineStore('message', {
     resetMessage(): void {
       this.message = ''
       this.componentID = ''
-    },
-    addComment(countryId: number, comment: string): void {
-      if (!this.comments[countryId]) {
-        this.comments[countryId] = []
-      }
-      this.comments[countryId].push(comment)
-    },
-    getCommentsByCountry(countryId: number): string[] | undefined {
-      return this.comments[countryId]
     },
   },
 })

@@ -3,15 +3,25 @@ export interface MedalDetail {
   gold: number;
   silver: number;
   bronze: number;
+  total: number;
 }
 
 export interface Country {
   id: number;
   name: string;
+  flag: string;
+  population?: number;
+  capital?: string;
+  area?:string;
+  region:string;
+  subregion?:string;
+  information?:string;
   gold: number;
   silver: number;
   bronze: number;
+  totalMedals: number;
   medalDetails: MedalDetail[];
+  comments?: Comment[];
 }
 
 export interface OlympicData {
@@ -19,13 +29,16 @@ export interface OlympicData {
 }
 
 export interface MessageState {
-  message: string
-  componentID: string
-  comments: Record<number, string[]>
+  message: string;
+  componentID: string;
 }
 
 export interface CountryState {
-  countries: Country[]
-  currentCountry: Country | null
-  totalCountries: number
+  country: Country | null;
+}
+
+export interface Comment {
+  id: number;
+  content: string;
+  timestamp: string;
 }
